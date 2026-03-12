@@ -35,30 +35,34 @@ It is commonly used for README files and documentation.
 ---
 
 ## Basic Markdown Syntax
-
+<!--
 ### Headings
 # Heading =Heading-1
 ## Heading = Heading-2
 ## Heading =Heading-3
+-->
 ### Lists
-
-### list
+<!--
 1. Item 1
 2. Item 2
 3. Item 3
+-->
  
 
 
 ### Code Blocks
-
+<!--
 ```
 System.out.println("Hello");
 ```
+-->
 
 ### Links
+<!--
 Example:
 
 [Open Google](https://google.com)
+-->
 
 ---
 
