@@ -51,9 +51,9 @@ It is commonly used for README files and documentation.
 
 ### Code Blocks
 
-'''
+```
 System.out.println("Hello");
-'''
+```
 
 ### Links
 Example:
